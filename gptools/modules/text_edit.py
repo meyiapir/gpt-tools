@@ -13,8 +13,3 @@ class TextEdit(GetAnswer):
 
     def translate(self, to_lang: str = "English"):
         return self.get_answer(BASE_QUERY_TRANSLATE.format(to_lang))
-
-
-
-
-
