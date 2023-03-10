@@ -1,2 +1,3 @@
 # GPT Tools
-# [ IN DEVELOPMENT ]
+***
+## [ PROJECT IN DEVELOPMENT ]
